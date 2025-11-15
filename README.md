@@ -30,7 +30,7 @@ The reconstructed image is shown in a window and saved as `recon.png`.
 
 ## License
 MIT
-```
+
 
 ---
 
